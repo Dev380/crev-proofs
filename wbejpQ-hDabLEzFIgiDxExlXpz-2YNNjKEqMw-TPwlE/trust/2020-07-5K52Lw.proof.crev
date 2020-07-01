@@ -62,3 +62,20 @@ trust: medium
 Ua8kgdvnJU-4Qba9LQVEyFomRBZ1WXxc-O6kcqzQk_eFjSdUHfwf5umOqxu_AHBlt6gDiFFtPi485zyYrKlQCw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2020-07-01T18:11:37.581189037-04:00"
+from:
+  id-type: crev
+  id: wbejpQ-hDabLEzFIgiDxExlXpz-2YNNjKEqMw-TPwlE
+  url: "https://github.com/Dev380/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+----- SIGN CREV PROOF -----
+RCxom1WZ2bXW-ExD0doODIzsKDKhwki7C59EKL3e1Z7mDwXehPRbxDymbR5bAbSFttir1DE36gXbGy3LxaSNDw
+----- END CREV PROOF -----
+
